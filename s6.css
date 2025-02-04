@@ -1,0 +1,6 @@
+.second{
+    background-image: linear-gradient(rgba(16,13,26,0.9),rgba(16,13,26,0.9)),url("img/img\ s5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
